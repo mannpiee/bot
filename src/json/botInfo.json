@@ -1,16 +1,17 @@
 {
-  "botname": "Zbin-Wabot",
+  "botname": "Mxdies BotWa",
   "ownerNumber": [
-    "6281910263857",
-    "6283128671683",
-    "60138062494",
-    "62895343001883",
-    "62895337035454"
+    "6288231715470",
+    "62895333381439",
+    "6282387804410"
   ],
   "prefix": [
-    "z"
+    "z",
+    ".",
+    "!",
+    "<"
   ],
-  "ownername": "Galang/ZbinKw",
+  "ownername": "Mxd/Lele Brewok",
   "unicode": {
     "head": "⬣",
     "list": "⬡",
@@ -45,5 +46,6 @@
     "Error": "Yah Error",
     "fromMe": "Pesan Yang Di Balas Harus Dari Bot",
     "botAdmin": "Bot Nya Admin Dong"
-  }
+  },
+  "session":null
 }
