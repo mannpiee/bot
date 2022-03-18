@@ -12,4 +12,4 @@ global.logo = []
 global.clients = [];
 global.used_logo = 0
 
-functions.run(client);
+f.run(client);
