@@ -2,7 +2,7 @@ const axios = require('axios')
 const cheerio = require('cheerio')
 
 const dafontSearch = async (query) => {
-const base = `https://www.dafont.com`
+const base = `https://www.dafont.com`;
 
 const res = await axios.get(`${base}/search.php?q=${query}`)
 
